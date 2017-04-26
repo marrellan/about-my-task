@@ -1,0 +1,6 @@
+http://sisters.com.ua/
+CMS OpenCart
+My responsibilities contained installation and configuration opencart, css-html coding all project. adaptive development. With help js I wrote popup windows on the page "news" and on  product page. I was engaged in the functionality of the "forgot password" button in the registration form and on the order registration page. On the product page I wrote a code for the rating of the review. For all forms that are on the site did the validation with js.
+	
+
+In other projects I was involved on the same principle and with the same tasks
